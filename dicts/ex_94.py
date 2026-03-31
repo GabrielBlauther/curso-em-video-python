@@ -30,3 +30,5 @@ print("-=" *30)
 print(f"Ao todo temos o total de {len(galera)} pessoas cadastradas.")
 
 print(f"A Media das idades é {soma / media}")
+
+print(f"As mulheres cadastradas foram: ", end='')
